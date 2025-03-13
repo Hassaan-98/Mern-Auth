@@ -29,6 +29,26 @@ A full-stack authentication application built with the **MERN stack** (MongoDB, 
 
 ## 📂 Project Structure
 
+
+---
+
+## ⚙️ Prerequisites
+To run this app locally, ensure you have the following installed:
+- ![Node.js](https://img.shields.io/badge/Node.js-16.x+-339933?style=flat-square&logo=nodedotjs&logoColor=white) (Recommended: v16 or higher)
+- ![Yarn](https://img.shields.io/badge/Yarn-1.x-2C8EBB?style=flat-square&logo=yarn&logoColor=white) (Alternative: npm)
+- A MongoDB instance (local via MongoDB Community Server or cloud-based like MongoDB Atlas)
+- A Mailtrap account for email testing (free tier available)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+Clone this repo to your local machine and navigate into the project directory:
+```bash
+git clone https://github.com/yourusername/mern-auth-app.git
+cd mern-auth-app
+
 ```bash
 MONGO_URI=your_mongo_uri
 PORT=5000
