@@ -38,20 +38,22 @@ To run this app locally, ensure you have the following installed:
 - A Mailtrap account for email testing (free tier available)
 
 ---
-mern-auth/
-│── backend/                # Express.js API and MongoDB logic  
-│   ├── models/             # Mongoose schemas (e.g., User)  
-│   ├── routes/             # API routes (e.g., auth, users)  
-│   ├── config/             # Database connection and config  
-│   └── server.js           # Entry point for the backend  
+--- ## 📂 Project Structure
+📂 mern-auth/
+│── 📂 backend/                # Express.js API and MongoDB logic  
+│   ├── 📂 models/             # Mongoose schemas (e.g., User)  
+│   ├── 📂 routes/             # API routes (e.g., auth, users)  
+│   ├── 📂 config/             # Database connection and config  
+│   └── 📄 server.js           # Entry point for the backend  
 │  
-│── frontend/               # React app for the UI  
-│   ├── src/                # React components, hooks, and styles  
-│   ├── public/             # Static assets  
-│   └── package.json        # Frontend dependencies  
+│── 📂 frontend/               # React app for the UI  
+│   ├── 📂 src/                # React components, hooks, and styles  
+│   ├── 📂 public/             # Static assets  
+│   └── 📄 package.json        # Frontend dependencies  
 │  
-├── .gitignore              # Git ignore file  
-└── README.md               # You're reading it!  
+├── 📄 .gitignore              # Git ignore file  
+└── 📄 README.md               # You're reading it!  
+ 
 
 
 ## 🚀 Getting Started
