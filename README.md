@@ -28,8 +28,6 @@ A full-stack authentication application built with the **MERN stack** (MongoDB, 
 ---
 
 
----
-
 ## ⚙️ Prerequisites
 To run this app locally, ensure you have the following installed:
 - ![Node.js](https://img.shields.io/badge/Node.js-16.x+-339933?style=flat-square&logo=nodedotjs&logoColor=white) (Recommended: v16 or higher)
