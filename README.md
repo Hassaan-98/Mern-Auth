@@ -28,7 +28,17 @@ A full-stack authentication application built with the **MERN stack** (MongoDB, 
 ---
 
 ## 📂 Project Structure
-
+├── backend/         # Express.js API and MongoDB logic
+│   ├── models/      # Mongoose schemas (e.g., User)
+│   ├── routes/      # API routes (e.g., auth, users)
+│   ├── config/      # Database connection and config
+│   └── server.js    # Entry point for the backend
+├── frontend/        # React app for the UI
+│   ├── src/         # React components, hooks, and styles
+│   ├── public/      # Static assets
+│   └── package.json # Frontend dependencies
+├── .gitignore       # Git ignore file
+└── README.md        # You're reading it!
 
 ---
 
