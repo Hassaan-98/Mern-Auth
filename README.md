@@ -40,7 +40,7 @@ To run this app locally, ensure you have the following installed:
 ---
 ## 📂 Project Structure
 📂 mern-auth/
-│── 📂 backend/                # Express.js API and MongoDB logic  
+│   │── 📂 backend/                # Express.js API and MongoDB logic  
 │   ├── 📂 models/             # Mongoose schemas (e.g., User)  
 │   ├── 📂 routes/             # API routes (e.g., auth, users)  
 │   ├── 📂 config/             # Database connection and config  
