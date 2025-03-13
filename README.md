@@ -13,14 +13,16 @@ CLIENT_URL= http://localhost:5173
 ```
 
 ### Run this app locally
+``shell 
+yarn install 
 
 ```shell
-npm run build
+yarn run build
 ```
 
 ### Start the app
 
 ```shell
-npm run start
+yarn run dev
 ```
 
