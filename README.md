@@ -61,7 +61,7 @@ To run this app locally, ensure you have the following installed:
 ### 1. Clone the Repository
 Clone this repo to your local machine and navigate into the project directory:
 ```bash
-git clone https://github.com/yourusername/mern-auth-app.git
+git clone https://github.com/Hassaan_98/Mern-Auth
 cd mern-auth-app
 
 ```bash
