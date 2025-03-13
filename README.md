@@ -13,11 +13,8 @@ CLIENT_URL= http://localhost:5173
 ```
 
 ### Run this app locally
-```shell 
-yarn install 
-
 ```shell
-yarn run build
+yarn install
 ```
 
 ### Start the app
