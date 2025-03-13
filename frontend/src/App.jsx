@@ -48,7 +48,7 @@ function App() {
 	}, [checkAuth]);
 
 	if (isCheckingAuth) return <LoadingSpinner />;
-
+  
 	return (
 		<div
 			className='min-h-screen bg-gradient-to-br

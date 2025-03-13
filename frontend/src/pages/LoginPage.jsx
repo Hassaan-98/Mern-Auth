@@ -15,6 +15,7 @@ const LoginPage = () => {
 		e.preventDefault();
 		await login(email, password);
 	};
+	
 
 	return (
 		<motion.div
