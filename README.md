@@ -13,7 +13,7 @@ CLIENT_URL= http://localhost:5173
 ```
 
 ### Run this app locally
-``shell 
+```shell 
 yarn install 
 
 ```shell
