@@ -38,7 +38,7 @@ To run this app locally, ensure you have the following installed:
 - A Mailtrap account for email testing (free tier available)
 
 ---
---- ## 📂 Project Structure
+## 📂 Project Structure
 📂 mern-auth/
 │── 📂 backend/                # Express.js API and MongoDB logic  
 │   ├── 📂 models/             # Mongoose schemas (e.g., User)  
