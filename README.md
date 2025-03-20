@@ -15,7 +15,6 @@ A full-stack authentication application built with the **MERN stack** (MongoDB, 
 - **Error Handling**: Robust error messages for a better user experience.
 
 ---
-
 ## 🛠️ Tech Stack
 
 | Technology       | Icon                                                                 | Description                  |
