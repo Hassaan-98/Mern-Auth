@@ -8,6 +8,7 @@ A full-stack authentication application built with the **MERN stack** (MongoDB, 
 ## ✨ Features
 - **User Authentication**: Register, login, and logout with JWT-based security.
 - **Backend API**: RESTful API built with Express.js and MongoDB.
+- 
 - **Frontend UI**: Responsive React app with modern design.
 - **Email Integration**: Uses Mailtrap for testing email functionality.
 - **Environment Config**: Securely manage secrets with `.env` files.
