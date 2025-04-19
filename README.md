@@ -12,7 +12,9 @@ A full-stack authentication application built with the **MERN stack** (MongoDB, 
 - **Email Integration**: Uses Mailtrap for testing email functionality.
 - **Environment Config**: Securely manage secrets with `.env` files.
 - **Password Hashing**: Securely stores passwords using bcrypt.
+- 
 - **Error Handling**: Robust error messages for a better user experience.
+- 
 - 
 - 
 
