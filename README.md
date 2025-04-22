@@ -15,6 +15,8 @@ A full-stack authentication application built with the **MERN stack** (MongoDB, 
 - **Password Hashing**: Securely stores passwords using bcrypt.
 - 
 - **Error Handling**: Robust error messages for a better user experience.
+
+- 
 - 
 - 
 - 
